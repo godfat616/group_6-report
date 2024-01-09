@@ -1,0 +1,228 @@
+Cluster 1: Country: Kuwait, Average Rate: 73.83999999999999
+Cluster 1: Country: Saudi Arabia, Average Rate: 78.42266666666666
+Cluster 1: Country: Syria, Average Rate: 79.52033333333334
+Cluster 1: Country: Algeria, Average Rate: 79.89133333333332
+Cluster 1: Country: Bhutan, Average Rate: 81.45066666666666
+Cluster 1: Country: Sri Lanka, Average Rate: 81.54566666666666
+Cluster 1: Country: India, Average Rate: 81.60266666666666
+Cluster 1: Country: Morocco, Average Rate: 82.89433333333334
+Cluster 1: Country: Sudan, Average Rate: 83.85433333333334
+Cluster 1: Country: Niger, Average Rate: 84.64966666666668
+Cluster 1: Country: Tunisia, Average Rate: 85.20700000000001
+Cluster 1: Country: Egypt, Average Rate: 85.48433333333334
+Cluster 1: Country: Maldives, Average Rate: 86.642
+Cluster 1: Country: Nigeria, Average Rate: 88.52733333333335
+Cluster 1: Country: Yemen, Average Rate: 88.88833333333334
+Cluster 1: Country: South Asia (WB), Average Rate: 88.994
+Cluster 1: Country: Bangladesh, Average Rate: 89.24533333333333
+Cluster 1: Country: Nepal, Average Rate: 89.3
+Cluster 1: Country: South-East Asia Region (WHO), Average Rate: 90.89466666666667
+Cluster 1: Country: Mauritius, Average Rate: 91.11066666666667
+Cluster 1: Country: Middle East & North Africa (WB), Average Rate: 91.93
+Cluster 1: Country: Timor, Average Rate: 92.82633333333334
+Cluster 1: Country: Iran, Average Rate: 93.097
+Cluster 1: Country: Kenya, Average Rate: 94.17833333333333
+Cluster 1: Country: Oman, Average Rate: 94.24233333333333
+Cluster 1: Country: Iraq, Average Rate: 94.27466666666666
+Cluster 1: Country: Gambia, Average Rate: 94.94766666666666
+Cluster 1: Country: El Salvador, Average Rate: 95.369
+Cluster 1: Country: Ethiopia, Average Rate: 95.64466666666667
+Cluster 1: Country: Turkmenistan, Average Rate: 95.99566666666666
+Cluster 1: Country: Jordan, Average Rate: 96.485
+Cluster 1: Country: World Bank Lower Middle Income, Average Rate: 97.318
+Cluster 1: Country: Sierra Leone, Average Rate: 97.37233333333333
+Cluster 1: Country: Mexico, Average Rate: 97.90866666666668
+Cluster 1: Country: Burkina Faso, Average Rate: 98.69266666666667
+Cluster 1: Country: Mozambique, Average Rate: 99.67633333333333
+Cluster 1: Country: Madagascar, Average Rate: 100.29333333333334
+Cluster 1: Country: Liberia, Average Rate: 100.49366666666667
+Cluster 1: Country: Panama, Average Rate: 101.27866666666667
+Cluster 1: Country: Chad, Average Rate: 101.29066666666668
+Cluster 1: Country: Namibia, Average Rate: 101.71533333333333
+Cluster 1: Country: Senegal, Average Rate: 103.38533333333334
+Cluster 1: Country: Indonesia, Average Rate: 104.00399999999999
+Cluster 1: Country: Dominican Republic, Average Rate: 104.087
+Cluster 1: Country: Benin, Average Rate: 104.28099999999999
+Cluster 1: Country: Libya, Average Rate: 104.53833333333334
+Cluster 1: Country: Mauritania, Average Rate: 104.69266666666667
+Cluster 1: Country: Togo, Average Rate: 105.89433333333334
+Cluster 1: Country: Paraguay, Average Rate: 105.95466666666667
+Cluster 1: Country: Democratic Republic of Congo, Average Rate: 105.98566666666667
+Cluster 1: Country: Mali, Average Rate: 106.20366666666668
+Cluster 1: Country: Nicaragua, Average Rate: 106.73
+Cluster 1: Country: Kyrgyzstan, Average Rate: 107.15333333333334
+Cluster 3: Country: Eastern Mediterranean Region (WHO), Average Rate: 107.88300000000001
+Cluster 3: Country: South Sudan, Average Rate: 108.02166666666668
+Cluster 3: Country: Philippines, Average Rate: 108.941
+Cluster 3: Country: Samoa, Average Rate: 109.50399999999999
+Cluster 3: Country: Puerto Rico, Average Rate: 109.74766666666666
+Cluster 3: Country: Papua New Guinea, Average Rate: 109.762
+Cluster 3: Country: Belize, Average Rate: 109.89666666666668
+Cluster 3: Country: African Region (WHO), Average Rate: 109.89966666666666
+Cluster 3: Country: Guam, Average Rate: 110.18900000000001
+Cluster 3: Country: Fiji, Average Rate: 110.24633333333333
+Cluster 3: Country: Colombia, Average Rate: 110.36200000000001
+Cluster 3: Country: Sub-Saharan Africa (WB), Average Rate: 110.83933333333333
+Cluster 3: Country: Uzbekistan, Average Rate: 111.07966666666667
+Cluster 3: Country: Tajikistan, Average Rate: 111.17666666666668
+Cluster 3: Country: Somalia, Average Rate: 111.22666666666667
+Cluster 3: Country: Albania, Average Rate: 113.71833333333333
+Cluster 3: Country: Comoros, Average Rate: 114.33433333333333
+Cluster 3: Country: Angola, Average Rate: 114.961
+Cluster 3: Country: Cote d'Ivoire, Average Rate: 115.499
+Cluster 3: Country: Vietnam, Average Rate: 115.68833333333333
+Cluster 3: Country: Ghana, Average Rate: 115.69200000000001
+Cluster 3: Country: Suriname, Average Rate: 115.70633333333333
+Cluster 3: Country: Equatorial Guinea, Average Rate: 115.89699999999999
+Cluster 3: Country: World Bank Low Income, Average Rate: 115.949
+Cluster 3: Country: Honduras, Average Rate: 116.73866666666666
+Cluster 3: Country: Peru, Average Rate: 116.92133333333332
+Cluster 3: Country: Cameroon, Average Rate: 117.19966666666667
+Cluster 3: Country: Palestine, Average Rate: 118.00933333333334
+Cluster 3: Country: Tanzania, Average Rate: 118.52733333333335
+Cluster 3: Country: Djibouti, Average Rate: 120.563
+Cluster 3: Country: Malaysia, Average Rate: 121.29166666666667
+Cluster 3: Country: Venezuela, Average Rate: 121.509
+Cluster 3: Country: Ecuador, Average Rate: 121.61999999999999
+Cluster 3: Country: Cambodia, Average Rate: 121.65066666666667
+Cluster 3: Country: Laos, Average Rate: 121.87566666666666
+Cluster 3: Country: Moldova, Average Rate: 122.84766666666665
+Cluster 3: Country: Burundi, Average Rate: 122.99366666666667
+Cluster 3: Country: Costa Rica, Average Rate: 123.69666666666667
+Cluster 3: Country: Turkey, Average Rate: 124.09133333333332
+Cluster 3: Country: Singapore, Average Rate: 124.32266666666666
+Cluster 3: Country: Trinidad and Tobago, Average Rate: 124.34033333333333
+Cluster 3: Country: Georgia, Average Rate: 125.70033333333335
+Cluster 3: Country: Latin America & Caribbean (WB), Average Rate: 126.1
+Cluster 3: Country: Brazil, Average Rate: 126.50833333333334
+Cluster 3: Country: Tokelau, Average Rate: 126.65833333333333
+Cluster 3: Country: Myanmar, Average Rate: 127.14966666666666
+Cluster 3: Country: Malta, Average Rate: 127.45166666666667
+Cluster 3: Country: Sao Tome and Principe, Average Rate: 127.62766666666667
+Cluster 3: Country: Eritrea, Average Rate: 127.766
+Cluster 3: Country: Finland, Average Rate: 127.76833333333335
+Cluster 3: Country: Central African Republic, Average Rate: 128.40833333333333
+Cluster 3: Country: Malawi, Average Rate: 128.443
+Cluster 3: Country: Cyprus, Average Rate: 128.53266666666667
+Cluster 3: Country: Cape Verde, Average Rate: 128.734
+Cluster 3: Country: Vanuatu, Average Rate: 129.144
+Cluster 3: Country: Guatemala, Average Rate: 129.16133333333335
+Cluster 3: Country: Switzerland, Average Rate: 129.60166666666666
+Cluster 3: Country: Thailand, Average Rate: 129.697
+Cluster 3: Country: Rwanda, Average Rate: 130.30633333333333
+Cluster 3: Country: Azerbaijan, Average Rate: 131.774
+Cluster 3: Country: Guinea-Bissau, Average Rate: 132.46166666666667
+Cluster 3: Country: Guyana, Average Rate: 132.86766666666665
+Cluster 3: Country: Japan, Average Rate: 133.05066666666667
+Cluster 3: Country: Jamaica, Average Rate: 133.05266666666665
+Cluster 3: Country: Sweden, Average Rate: 133.31433333333334
+Cluster 2: Country: Uganda, Average Rate: 138.0593333333333
+Cluster 2: Country: World, Average Rate: 138.23533333333336
+Cluster 2: Country: North Korea, Average Rate: 138.40733333333336
+Cluster 2: Country: Lebanon, Average Rate: 138.5703333333333
+Cluster 2: Country: Iceland, Average Rate: 138.68733333333333
+Cluster 2: Country: Spain, Average Rate: 139.69866666666667
+Cluster 2: Country: Congo, Average Rate: 140.07266666666666
+Cluster 2: Country: Bahrain, Average Rate: 140.12866666666665
+Cluster 2: Country: Niue, Average Rate: 140.3756666666667
+Cluster 2: Country: Region of the Americas (WHO), Average Rate: 140.66533333333334
+Cluster 2: Country: Cook Islands, Average Rate: 141.56066666666666
+Cluster 2: Country: Australia, Average Rate: 141.671
+Cluster 2: Country: Cuba, Average Rate: 142.6243333333333
+Cluster 2: Country: Romania, Average Rate: 142.87133333333335
+Cluster 2: Country: Antigua and Barbuda, Average Rate: 143.07466666666667
+Cluster 2: Country: Bulgaria, Average Rate: 143.29433333333333
+Cluster 2: Country: G20, Average Rate: 143.35533333333333
+Cluster 2: Country: Tuvalu, Average Rate: 143.863
+Cluster 2: Country: Israel, Average Rate: 145.10433333333333
+Cluster 2: Country: Norway, Average Rate: 145.91133333333335
+Cluster 2: Country: Gabon, Average Rate: 146.283
+Cluster 2: Country: Zambia, Average Rate: 146.54566666666668
+Cluster 2: Country: Guinea, Average Rate: 146.57333333333332
+Cluster 2: Country: Qatar, Average Rate: 147.12666666666667
+Cluster 2: Country: Austria, Average Rate: 147.136
+Cluster 2: Country: Pakistan, Average Rate: 147.37266666666667
+Cluster 2: Country: Taiwan, Average Rate: 147.44466666666668
+Cluster 2: Country: Saint Lucia, Average Rate: 147.738
+Cluster 2: Country: South Korea, Average Rate: 148.00533333333334
+Cluster 2: Country: Armenia, Average Rate: 148.00933333333333
+Cluster 2: Country: World Bank Upper Middle Income, Average Rate: 148.21166666666667
+Cluster 2: Country: American Samoa, Average Rate: 148.31666666666666
+Cluster 2: Country: South Africa, Average Rate: 148.32233333333335
+Cluster 2: Country: Canada, Average Rate: 148.60866666666666
+Cluster 2: Country: Ukraine, Average Rate: 148.91833333333335
+Cluster 2: Country: Portugal, Average Rate: 149.47333333333333
+Cluster 2: Country: Chile, Average Rate: 149.807
+Cluster 2: Country: OECD Countries, Average Rate: 149.85066666666668
+Cluster 2: Country: Belarus, Average Rate: 150.06199999999998
+Cluster 2: Country: Russia, Average Rate: 150.63066666666666
+Cluster 2: Country: East Asia & Pacific (WB), Average Rate: 150.6423333333333
+Cluster 2: Country: New Zealand, Average Rate: 151.04
+Cluster 2: Country: Italy, Average Rate: 151.07000000000002
+Cluster 2: Country: North America (WB), Average Rate: 151.59466666666668
+Cluster 2: Country: World Bank High Income, Average Rate: 151.71366666666665
+Cluster 2: Country: United States, Average Rate: 151.97166666666666
+Cluster 2: Country: Saint Vincent and the Grenadines, Average Rate: 152.49966666666666
+Cluster 2: Country: Lesotho, Average Rate: 153.08466666666666
+Cluster 2: Country: Greece, Average Rate: 155.33266666666665
+Cluster 2: Country: Western Pacific Region (WHO), Average Rate: 155.42700000000002
+Cluster 2: Country: Bosnia and Herzegovina, Average Rate: 156.11599999999999
+Cluster 2: Country: Haiti, Average Rate: 156.65133333333333
+Cluster 2: Country: Bahamas, Average Rate: 156.94566666666665
+Cluster 2: Country: Kazakhstan, Average Rate: 157.07299999999998
+Cluster 2: Country: European Region (WHO), Average Rate: 157.145
+Cluster 2: Country: Germany, Average Rate: 157.17533333333333
+Cluster 2: Country: Europe & Central Asia (WB), Average Rate: 157.19766666666666
+Cluster 2: Country: Afghanistan, Average Rate: 157.429
+Cluster 2: Country: Marshall Islands, Average Rate: 159.90633333333332
+Cluster 2: Country: Lithuania, Average Rate: 160.15666666666667
+Cluster 2: Country: Ireland, Average Rate: 160.15900000000002
+Cluster 2: Country: Latvia, Average Rate: 160.37633333333332
+Cluster 2: Country: Bermuda, Average Rate: 160.4523333333333
+Cluster 2: Country: France, Average Rate: 160.78833333333333
+Cluster 2: Country: England, Average Rate: 161.49766666666667
+Cluster 2: Country: Luxembourg, Average Rate: 161.632
+Cluster 2: Country: China, Average Rate: 161.63733333333332
+Cluster 2: Country: Micronesia (country), Average Rate: 162.2243333333333
+Cluster 2: Country: Botswana, Average Rate: 162.27033333333333
+Cluster 2: Country: Tonga, Average Rate: 162.74200000000002
+Cluster 2: Country: Northern Ireland, Average Rate: 163.11499999999998
+Cluster 2: Country: Barbados, Average Rate: 163.98066666666668
+Cluster 2: Country: Slovenia, Average Rate: 164.12066666666666
+Cluster 2: Country: United Kingdom, Average Rate: 164.284
+Cluster 2: Country: Estonia, Average Rate: 164.459
+Cluster 2: Country: Belgium, Average Rate: 165.217
+Cluster 2: Country: Slovakia, Average Rate: 165.38466666666667
+Cluster 2: Country: Bolivia, Average Rate: 165.49033333333333
+Cluster 2: Country: Saint Kitts and Nevis, Average Rate: 166.53699999999998
+Cluster 2: Country: Wales, Average Rate: 166.538
+Cluster 2: Country: Seychelles, Average Rate: 167.58333333333334
+Cluster 2: Country: Montenegro, Average Rate: 167.67133333333334
+Cluster 2: Country: United Arab Emirates, Average Rate: 167.80333333333334
+Cluster 2: Country: Solomon Islands, Average Rate: 168.22766666666666
+Cluster 2: Country: Argentina, Average Rate: 168.93133333333333
+Cluster 5: Country: Croatia, Average Rate: 172.84
+Cluster 5: Country: Netherlands, Average Rate: 173.04366666666667
+Cluster 5: Country: Zimbabwe, Average Rate: 173.25366666666665
+Cluster 5: Country: United States Virgin Islands, Average Rate: 173.94633333333334
+Cluster 5: Country: Andorra, Average Rate: 173.9523333333333
+Cluster 5: Country: Grenada, Average Rate: 175.244
+Cluster 5: Country: Northern Mariana Islands, Average Rate: 175.38266666666667
+Cluster 5: Country: North Macedonia, Average Rate: 175.71833333333333
+Cluster 5: Country: Czechia, Average Rate: 176.79
+Cluster 5: Country: San Marino, Average Rate: 177.56133333333335
+Cluster 5: Country: Eswatini, Average Rate: 177.94366666666667
+Cluster 5: Country: Denmark, Average Rate: 182.24200000000002
+Cluster 5: Country: Serbia, Average Rate: 184.50133333333332
+Cluster 5: Country: Palau, Average Rate: 185.63333333333333
+Cluster 5: Country: Kiribati, Average Rate: 186.78633333333335
+Cluster 5: Country: Scotland, Average Rate: 189.50799999999998
+Cluster 5: Country: Poland, Average Rate: 189.77533333333335
+Cluster 5: Country: Nauru, Average Rate: 191.33466666666666
+Cluster 5: Country: Dominica, Average Rate: 193.46133333333333
+Cluster 5: Country: Uruguay, Average Rate: 198.465
+Cluster 5: Country: Brunei, Average Rate: 202.96300000000002
+Cluster 5: Country: Hungary, Average Rate: 213.8396666666667
+Cluster 5: Country: Monaco, Average Rate: 229.32000000000002
+Cluster 4: Country: Greenland, Average Rate: 276.28633333333335
+Cluster 4: Country: Mongolia, Average Rate: 299.8813333333334
